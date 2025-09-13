@@ -1,1 +1,4 @@
-# stakeholder-analysis.xlsx
+| Stakeholder Name | Title / Role    | Influence (H/M/L) | Interest (H/M/L) | Contact Info                                            | Communication Channel | Engagement Frequency | Owner   | Notes             |
+| ---------------- | --------------- | ----------------- | ---------------- | ------------------------------------------------------- | --------------------- | -------------------- | ------- | ----------------- |
+| John Doe         | Project Sponsor | H                 | H                | [john.doe@company.com](mailto:john.doe@company.com)     | Weekly Meeting        | Weekly               | BA Lead | Approves budget   |
+| Jane Smith       | Ops Lead        | M                 | H                | [jane.smith@company.com](mailto:jane.smith@company.com) | Email                 | Ad-hoc               | BA      | Attends workshops |
